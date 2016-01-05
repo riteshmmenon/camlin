@@ -2,7 +2,7 @@ package camlin.domain;
 
 import javax.xml.bind.annotation.XmlRootElement;
 
-//@author ritz
+
 @XmlRootElement
 public class User {
 
