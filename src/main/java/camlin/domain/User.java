@@ -3,8 +3,7 @@ package camlin.domain;
 import javax.xml.bind.annotation.XmlRootElement;
 
 @XmlRootElement
-// from http://www.vogella.com/articles/REST/
-// JAX-RS supports an automatic mapping from JAXB annotated class to XML and JSON
+
 public class User {
 
     private String firstName;
