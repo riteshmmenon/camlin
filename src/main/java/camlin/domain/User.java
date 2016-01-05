@@ -2,7 +2,7 @@ package camlin.domain;
 
 import javax.xml.bind.annotation.XmlRootElement;
 
-
+// User POJO
 @XmlRootElement
 public class User {
 
